@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-all {
+    border: 3px solid;
+    padding: 10px 30px;
+    background-color:bisque
+}
